@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@import './fonts.css';
+
+@theme {
+  --font-jakarta-sans: 'Plus Jakarta Sans', sans-serif;
+  --breakpoint-md: 56.5rem;
+}

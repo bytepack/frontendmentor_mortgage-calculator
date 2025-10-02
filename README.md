@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/mortgage-calculator-zOzl6tLWcB)
+- [Solution URL](https://www.frontendmentor.io/learning-paths/javascript-frameworks-and-libraries-JDWoqQjMyb/challenge/66914c6c85c991733455f3d0/refactor)
 - [Live Site URL](frontendmentor-mortgage-calculator.vercel.app)
 
 ## My process
